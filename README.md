@@ -1,1 +1,5 @@
 # CS3PP-F1-Twitter-Data-Analytics
+The following project focuses on the application of data analytics by using Pandas Dataframe, Python and Twitter's API.
+For this project, we will be browsing a selection of three Twitter handles, namely MercedesAMGF1, McLarenF1 and RedBullRacing, all three being representatives of constructors in the Formula One sport. To initiate the retrieval of data, an application was submitted to Twitter Developers to give us the appropriate role to access certain levels of data access, later used as part of this task. Once the level of access was granted, an API connection was granted by using consumer key and secret, access token and access token secret followed by a bearer token. All of the mentioned were used, however, due to privacy, the keys have not been included as part of this submission.
+I would also like to thank Dr Miguel Razo Sanchez and Charith Avancha Fragoso for their contributions towards this project.
+Share Link: https://deepnote.com/project/CS3PP-nMgUlY4QRWOSPqdp4V4i7g
